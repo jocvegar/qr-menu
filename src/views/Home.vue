@@ -2,7 +2,7 @@
   <div class="home">
     <div class="jumbotron jumbotron-fluid bg-cover text-white">
       <div class="container">
-        <h1 class="display-4">MENU</h1>
+        <h1 class="display-3">MENU</h1>
         <h4 class="font-weight-bolder mt-5 text-capitalize">
           Presenta tu menu de forma digital
         </h4>
